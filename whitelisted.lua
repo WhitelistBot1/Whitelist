@@ -1,4 +1,4 @@
 return {
-    {name = "TheFakestStarfr", tags = {4}},
+    {name = "TheFakestStarfr", tags = {2}},
     {name = "ihateblankvoidheskid", tags = {1, 2}},
 }
